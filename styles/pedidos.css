@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+.mesa01{
+    background-color: rgb(78, 76, 76);
+}
+.mesa02{
+    background-color: rgb(78, 76, 76);
+}
+.mesa03{
+    background-color: rgb(78, 76, 76);
+}
+.mesa04{
+    background-color: rgb(78, 76, 76);
+}
+.pedido-tit{
+    text-align: center;
+}

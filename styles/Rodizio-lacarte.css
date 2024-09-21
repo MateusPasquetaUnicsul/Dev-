@@ -1,0 +1,21 @@
+
+.rodizio-container {
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.img-rodizio {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 150px;
+  margin-left: 200px;
+}
+
+.img-laCarte {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 150px;
+    margin-right: 200px;
+  }
